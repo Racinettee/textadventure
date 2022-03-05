@@ -1,0 +1,17 @@
+github.com/Racinettee/explorer/pkg/explorer v0.0.0-20220305071423-705ff97f14c2 h1:wyBynK0Ug7FOiXvRCdE0l6MET3uH4CTjSvzThGKCvp0=
+github.com/Racinettee/explorer/pkg/explorer v0.0.0-20220305071423-705ff97f14c2/go.mod h1:hkGhiWVW33020nPYgj+Ae2Gykrs3T0ObCp5e8751fYU=
+github.com/Racinettee/explorer/pkg/explorer v0.0.0-20220305074451-9a27abafc6d8 h1:wNMAdCU22fRQioy1YApcFo1ue5JqltSkrsnSgpR1D3g=
+github.com/Racinettee/explorer/pkg/explorer v0.0.0-20220305074451-9a27abafc6d8/go.mod h1:hkGhiWVW33020nPYgj+Ae2Gykrs3T0ObCp5e8751fYU=
+github.com/VladimirMarkelov/clui v1.2.1 h1:Npuq26u3/Yk3AD9JRDrGBY1m4xrDcWfK2Kd8oea6iQ8=
+github.com/VladimirMarkelov/clui v1.2.1/go.mod h1:Z/EV0mFYdsx8tzmRPzFoq6xkmF9wJ+euTC4p5h690xA=
+github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
+github.com/atotto/clipboard v0.1.4/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
+github.com/huandu/xstrings v1.3.2 h1:L18LIDzqlW6xN2rEkpdV8+oL/IXWJ1APd+vsdYy4Wdw=
+github.com/huandu/xstrings v1.3.2/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
+github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
+github.com/mattn/go-runewidth v0.0.13 h1:lTGmDsbAYt5DmK6OnoV7EuIF1wEIFAcxld6ypU4OSgU=
+github.com/mattn/go-runewidth v0.0.13/go.mod h1:Jdepj2loyihRzMpdS35Xk/zdY8IAYHsh153qUoGf23w=
+github.com/nsf/termbox-go v1.1.1 h1:nksUPLCb73Q++DwbYUBEglYBRPZyoXJdrj5L+TkjyZY=
+github.com/nsf/termbox-go v1.1.1/go.mod h1:T0cTdVuOwf7pHQNtfhnEbzHbcNyCEcVU4YPpouCbVxo=
+github.com/rivo/uniseg v0.2.0 h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=
+github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
