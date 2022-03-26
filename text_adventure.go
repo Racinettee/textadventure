@@ -7,6 +7,7 @@ import (
 	"path/filepath"
 
 	"github.com/Racinettee/explorer/pkg/explorer"
+	"github.com/Racinettee/textadventure/pkg/textadventure"
 	ui "github.com/VladimirMarkelov/clui"
 )
 
@@ -23,7 +24,7 @@ func main() {
 	fexp, err := explorer.CreateFileExplorer(0, 0, 30, 20, initPath)
 
 	textWin := ui.AddWindow(30, 1, 20, 10, "Text view")
-	textView := ui.CreateTextView(textWin, 40, 10, 1)
+	textView := textadventure.CreateTextView(textWin, 40, 10, 1)
 
 	fexp.OnItemClicked = func(path string) {
 		content := getFileContent(path)

@@ -1,4 +1,4 @@
-module github.com/Racinettee/text_adventure
+module github.com/Racinettee/textadventure
 
 go 1.17
 
